@@ -1,5 +1,5 @@
 body{
-    background-color:#df74a0;
+    background-color:#000000;
     color:#fff;
     text-align:center;
     font-family:Helvetica;
@@ -23,7 +23,7 @@ body{
      width:90%;
   }
   nav,aside,section,header,footer,article{
-    background-color:#4587a3;
+    background-color:#dededf1f;
     border-radius:.50em;
     text-align:center;
     margin:.25em auto;
